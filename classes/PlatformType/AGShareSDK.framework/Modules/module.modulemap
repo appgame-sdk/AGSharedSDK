@@ -1,6 +1,0 @@
-framework module AGShareSDK {
-  umbrella header "AGShareSDK.h"
-
-  export *
-  module * { export * }
-}

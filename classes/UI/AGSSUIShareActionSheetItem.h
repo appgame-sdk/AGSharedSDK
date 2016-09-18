@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "AGShareSDK/AGSSDKTypeDefine.h"
+#import "AGSSDKTypeDefine.h"
 
 @interface AGSSUIShareActionSheetItem : NSObject
 {

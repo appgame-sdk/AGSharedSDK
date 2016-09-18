@@ -6,7 +6,7 @@
 //  Copyright © 2016年 覃凤姣. All rights reserved.
 //
 
-#import "AGShareSDK/AGShareSDK.h"
+#import "AGShareSDK.h"
 @class AGSSUIShareActionSheetController;
 @class AGSSDKContentEntity;
 

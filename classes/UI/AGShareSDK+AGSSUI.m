@@ -9,7 +9,7 @@
 #import "AGShareSDK+AGSSUI.h"
 #import "AGSSUIShareActionSheetController.h"
 #import "AGSSUIShareActionSheetItem.h"
-#import "AGShareSDK/AGShareSDK.h"
+#import "AGShareSDK.h"
 @implementation AGShareSDK (AGSSUI)
 +(AGSSUIShareActionSheetController *)showShareActionSheet:(UIView *)view items:(NSArray *)items shareParams:(NSMutableDictionary *)shareParams onShareStateChanged:(SSUIShareStateChangedHandler)shareStateChangedHandler{
     NSMutableArray *ShareActionSheetItemArray = [NSMutableArray array];

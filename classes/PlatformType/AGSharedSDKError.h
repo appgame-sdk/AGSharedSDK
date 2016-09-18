@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+
 extern NSString *AGErrorDomain;
 typedef NS_ENUM(NSUInteger, AGErrorCode) {
     AGErrorUnknowError               = 1,
